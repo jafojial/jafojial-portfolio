@@ -1,13 +1,11 @@
-## Personal Portfolio
+## Alex JIOKEU Aka Jafojial Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### Visit my portfolio [Here](https://jafojial.intelso.cm)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](/image/jafojial_portfolio.png)
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
-
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
 
 Setup:
 - run ```npm i && npm start```
-# jafojial-portfolio
+
+### Thanks [JSMASTERY](https://github.com/adrianhajdin/portfolio_website) for the great template

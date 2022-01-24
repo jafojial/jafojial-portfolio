@@ -50,7 +50,7 @@ export const projects = [
     image: '/images/shortu.jpg',
     tags: 'Python/Django, PostgreSQL, Bootstrap, Javascript, RabbitMQ, Celery',
     source: 'https://github.com/jafojial/shortu',
-    visit: 'https://shortu.intelso.cm',
+    visit: 'https://s.intelso.cm',
     id: 5,
   },
   {
@@ -62,13 +62,40 @@ export const projects = [
     visit: 'https://play.google.com/store/apps/details?id=cm.intelso.dev.carprest',
     id: 6,
   },
+  /* {
+    title: 'MAC MTN',
+    description: "CrossJobs.cm is a specialized employment and recruitment platform in Cameroon and around the world. It scours the web to provide unique, free and unlimited access to thousands of job postings from various company websites and job boards around the world.",
+    image: '/images/shortu.jpg',
+    tags: 'JAVA/J2EE, PostgreSQL, JSP, KeyStore, Mutual Authentication, SOAP/REST API',
+    source: '#',
+    visit: '#',
+    id: 7,
+  },
+  {
+    title: 'DIGITAL FIRST',
+    description: "An Androïd mobile to access to CAMEASYGO services, the first carpooling network in Cameroon.",
+    image: '/images/cameasygo.jpg',
+    tags: 'JAVA/J2EE, PostgreSQL, RESP API, SQLite',
+    source: '#',
+    visit: '#',
+    id: 8,
+  },
+  {
+    title: 'T24 Integration',
+    description: "A Temenos T24 banking system implementation project in which I was in charge of API and routines development, the implementation of interfaces for the integration of billing data, Inquiry and Version",
+    image: '/images/cameasygo.jpg',
+    tags: 'JAVA, jBASE, XML, CLI, REST API, BATCH',
+    source: '#',
+    visit: '#',
+    id: 9,
+  }, */
 ];
 
 export const TimeLineData = [
-  { year: 2015, text: 'Started teaching at NASPT, worked as project manager at CDS Technologies', },
-  { year: 2016, text: 'Worked as technical support Engineer at ADSNET', },
-  { year: 2018, text: 'Worked as Developer at Afriland First Bank Cameroon', },
+  { year: 2015, text: 'Started teaching at NASPT, worked as Project Manager at CDS Technologies', },
+  { year: 2016, text: 'Worked as Technical Support Engineer at ADSNET', },
+  { year: 2018, text: 'Worked as Developer Engineer at Afriland First Bank Cameroon', },
   { year: 2020, text: 'Launched CrossJobs.cm, a free job aggregator portail', },
-  { year: 2021, text: 'Worked as freelance on multiple project such as Cameasygo, SendIt, ImmoPlus', },
+  { year: 2021, text: 'Worked as Freelance on multiple projects such as Cameasygo, SendIt, ImmoPlus', },
   { year: 2022, text: 'Created Intelso Sarl, a startup that develops innovative solutions to improve your daily life', },
 ];

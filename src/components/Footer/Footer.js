@@ -34,10 +34,10 @@ const Footer = () => {
           <SocialIcons href="https://www.facebook.com/jafojial/">
             <AiFillFacebook size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.youtube.com/">
+          <SocialIcons href="https://www.youtube.com/jafojial/">
             <AiFillYoutube size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://instagram.com">
+          <SocialIcons href="https://instagram.com/jafojial/">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>

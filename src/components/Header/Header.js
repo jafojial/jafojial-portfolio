@@ -29,7 +29,12 @@ const Header = () =>  (
         <Link href="#about">
           <NavLink>About</NavLink>
         </Link>
-      </li>        
+      </li> 
+      <li>
+        <Link href="https://intelso.cm/blog/">
+          <NavLink>Blog</NavLink>
+        </Link>
+      </li>       
     </Div2>
       <Div3>
         <SocialIcons href="https://github.com/jafojial">
@@ -41,10 +46,10 @@ const Header = () =>  (
         <SocialIcons href="https://www.facebook.com/jafojial/">
           <AiFillFacebook size="3rem"/>
         </SocialIcons>
-        <SocialIcons href="https://www.youtube.com">
+        <SocialIcons href="https://www.youtube.com/jafojial/">
           <AiFillYoutube size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://instagram.com">
+        <SocialIcons href="https://instagram.com/jafojial/">
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
       </Div3>
