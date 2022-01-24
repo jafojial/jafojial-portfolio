@@ -2,7 +2,7 @@
 
 ### Visit my portfolio [Here](https://jafojial.intelso.cm)
 
-![Portfolio Website](/image/jafojial_portfolio.png)
+![Portfolio Website](/public/image/jafojial_portfolio.png)
 
 
 Setup:
