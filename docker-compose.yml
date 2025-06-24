@@ -26,4 +26,4 @@ services:
       # dockerfile is the name of the Dockerfile
       dockerfile: Dockerfile.prod
     ports:
-      - "3001:3001"
+      - "3001:80"

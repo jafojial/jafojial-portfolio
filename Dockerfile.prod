@@ -38,6 +38,6 @@ COPY --from=build /out /usr/share/nginx/html
 
 
 # default port for nginx is 80
-EXPOSE 3001
+EXPOSE 80
 
 CMD [ "nginx","-g","daemon off;" ]
