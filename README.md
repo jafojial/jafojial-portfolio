@@ -12,7 +12,7 @@ Development
 Production
 - Run ```docker build -f Dockerfile.prod -t app_name_prod .```
 #### Using Docker compose
-- Rebuild the image using ```docker-compose up service_name — build```
+- Rebuild the image using ```docker-compose up service_name --build```
 
 ### Setup for development
 #### Without Docker
