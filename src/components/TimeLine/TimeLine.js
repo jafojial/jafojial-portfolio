@@ -46,8 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I'm a software engineer able to participate in the design and development of applications, management, optimization and securing of infrastructure. 
-      My goal is to bring ideas to life by creating products with high added value. I'm Hardworking, disciplined, available and endowed with a great team spirit.
+        I'm a passionate Software Engineer with a strong focus on backend development and service integration. I'm specialized in building scalable, reliable services using various technologies (Java & Spring, PHP & Symfony, and Python & Django) and I'm quick to adapt to any backend stack or framework.<br/>
+        In addition to my software engineering background, I have extensive experience as a Technical Support Engineer, helping customers resolve issues with Cloud platforms and ensuring smooth onboarding and post-sales support for enterprise products. This blend of backend expertise and customer-facing support allows me to bridge the gap between product development and user experience.<br/>
+        I'm driven by problem-solving, strong analysis skills, continuous learning, and delivering value, whether through clean, efficient code or hands-on customer guidance.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
